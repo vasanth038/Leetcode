@@ -1,4 +1,16 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+LeetCode Solutions
+
+A curated collection of my LeetCode solutions for coding interview preparation. This repository contains well-structured solutions categorized by topic to strengthen problem-solving skills and data structures & algorithms knowledge.
+
+Repository Structure
+
+Solutions are organized by LeetCode problem number and title.
+
+Each folder typically contains:
+
+Solution source code
+Problem-specific files
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
