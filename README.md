@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/vasanth038/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
