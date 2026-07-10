@@ -35,6 +35,7 @@ Problem-specific files
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vasanth038/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -44,6 +45,7 @@ Problem-specific files
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vasanth038/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vasanth038/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -124,4 +126,12 @@ Problem-specific files
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vasanth038/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vasanth038/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
