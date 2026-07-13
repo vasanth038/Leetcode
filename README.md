@@ -147,4 +147,8 @@ Problem-specific files
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vasanth038/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
