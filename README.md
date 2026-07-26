@@ -86,6 +86,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -126,6 +127,7 @@ Problem-specific files
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -143,6 +145,7 @@ Problem-specific files
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth038/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vasanth038/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
