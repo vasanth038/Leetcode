@@ -81,6 +81,7 @@ Problem-specific files
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vasanth038/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasanth038/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vasanth038/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vasanth038/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ Problem-specific files
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vasanth038/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -206,4 +208,8 @@ Problem-specific files
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
