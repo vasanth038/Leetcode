@@ -12,8 +12,10 @@
 class Solution {
     private:
      int helper(TreeNode* node){
-        if(node == nullptr) return 0;
-        return 1 + max(helper(node->left) , helper(node->right) ) ;
+        if(!node) return 0;
+        
+        return 1+max(helper(node->left),helper(node->right));
+      
      }
 public: 
     int maxDepth(TreeNode* root) {
