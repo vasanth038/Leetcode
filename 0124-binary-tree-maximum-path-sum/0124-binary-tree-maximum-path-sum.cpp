@@ -11,18 +11,20 @@
  */
 class Solution {
     private:
-     int helper(TreeNode* node , int & maxi){
-        if(node == nullptr) return 0;
-        int left_sum = max(0 ,helper(node->left,maxi) );
-        int right_sum = max(0 ,helper(node->right,maxi) );
-        maxi = max(maxi , node->val+left_sum+right_sum);
-        return node->val+max(right_sum ,left_sum ) ;
+     int helper(TreeNode* node,int &max_sum){
+         if(!node) return 0;
+         int left = max(0,helper(node->left,max_sum));
+         int right = max(0,helper(node->right,max_sum));
+         max_sum = max(max_sum , left+right+node->val);
+         return max(left,right)+node->val;
 
      }
+       
 public:
     int maxPathSum(TreeNode* root) {
-        int maxi = INT_MIN;
-        helper(root,maxi);
-        return maxi ;
+        int max_sum = INT_MIN;
+        helper(root,max_sum);
+        return max_sum;
+
     }
 };
