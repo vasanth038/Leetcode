@@ -10,17 +10,20 @@
  * };
  */
 class Solution {
-     private:
-      bool helper(TreeNode* r1 , TreeNode* r2){
-        if(r1 == NULL|| r2 == NULL ) return r1 == r2;
-        return (r1->val == r2->val && helper(r1->left , r2->right) && helper(r1->right , r2->left) ) ;
-      }
-public:
-    bool isSymmetric(TreeNode* root) {
-         
-     if(!root) return true;
+    private: 
+    bool helper(TreeNode* r1,TreeNode* r2  ){
+        if(!r1 && !r2) return true;
+        if(!r1 || !r2) return false;
+       bool left = helper(r1->left,r2->right) ;
+       bool right =  helper(r1->right,r2->left) ;
 
-     return helper(root->left , root->right);
+        return (r1->val == r2->val) && left && right;
+    }
+public: 
+    bool isSymmetric(TreeNode* root) {
+        if(!root) return true;
+
+         return helper(root->left,root->right);
 
     }
 };
