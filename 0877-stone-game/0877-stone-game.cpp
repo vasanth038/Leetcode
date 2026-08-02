@@ -9,8 +9,6 @@ class Solution {
       }
 public:
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
-         vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-       return helper(piles,0,n-1,dp) >= 0;
+       return true;
     }
 };
