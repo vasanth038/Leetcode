@@ -107,6 +107,7 @@ Problem-specific files
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
@@ -212,6 +213,7 @@ Problem-specific files
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasanth038/Leetcode/tree/master/0509-fibonacci-number) |
@@ -288,6 +290,7 @@ Problem-specific files
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
