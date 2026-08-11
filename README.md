@@ -125,6 +125,7 @@ Problem-specific files
 | [0647-palindromic-substrings](https://github.com/vasanth038/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/vasanth038/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vasanth038/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -141,6 +142,7 @@ Problem-specific files
 | [0316-remove-duplicate-letters](https://github.com/vasanth038/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/vasanth038/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vasanth038/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/vasanth038/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasanth038/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasanth038/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -366,4 +368,8 @@ Problem-specific files
 | ------- |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vasanth038/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vasanth038/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
