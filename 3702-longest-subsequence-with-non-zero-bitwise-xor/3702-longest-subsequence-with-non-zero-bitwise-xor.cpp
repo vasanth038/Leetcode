@@ -1,17 +1,15 @@
 class Solution {
 public:
     int longestSubsequence(vector<int>& nums) {
-        
-        sort(nums.rbegin(),nums.rend());
-       if(nums[0] == 0) return 0;
-        
         int X = 0;
+        int cnt0 = 0;
         for(int num : nums){
              X^=num;
+             if(num == 0) cnt0++;
         }
         int n =nums.size();
+       if(cnt0 == n) return 0;
         if(X) return n;
-
         return n-1;
     }
 };
