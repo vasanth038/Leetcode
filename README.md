@@ -123,6 +123,7 @@ Problem-specific files
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vasanth038/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vasanth038/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth038/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -181,6 +182,7 @@ Problem-specific files
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vasanth038/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vasanth038/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth038/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -392,6 +394,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth038/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -432,4 +435,8 @@ Problem-specific files
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
