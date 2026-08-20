@@ -5,7 +5,7 @@ public:
        vector<vector<int>>prev(3,vector<int>(2,0));
           for(int i = n-1; i >=0;i--){
                vector<vector<int>>cur(3,vector<int>(2,0));
-             for(int t = 0 ; t <= 1 ; t++){
+             for(int t = 1 ; t <= 2 ; t++){
                 for(int k = 0;k<=1;k++){
                    if(k){
                      int buyNow = -prices[i]+prev[t][0];
@@ -14,7 +14,7 @@ public:
                    }
                    else{
                      
-               int sellNow =  prices[i]+prev[t+1][1];
+               int sellNow =  prices[i]+prev[t-1][1];
                 int sellNext = prev[t][0];
                 cur[t][k] = max(sellNow,sellNext);
                    }
@@ -25,6 +25,6 @@ public:
           }
 
           
-       return prev[0][1]; 
+       return prev[2][1]; 
     }
 };
