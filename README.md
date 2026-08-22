@@ -135,6 +135,7 @@ Problem-specific files
 | [0518-coin-change-ii](https://github.com/vasanth038/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vasanth038/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vasanth038/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vasanth038/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/vasanth038/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
@@ -198,6 +199,7 @@ Problem-specific files
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vasanth038/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vasanth038/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -246,6 +248,7 @@ Problem-specific files
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -465,4 +468,9 @@ Problem-specific files
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
