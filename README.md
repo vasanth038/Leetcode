@@ -171,6 +171,7 @@ Problem-specific files
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vasanth038/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/vasanth038/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Array
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Problem-specific files
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vasanth038/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vasanth038/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vasanth038/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/vasanth038/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -335,6 +337,7 @@ Problem-specific files
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth038/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vasanth038/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/vasanth038/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Number Theory
 |  |
 | ------- |
