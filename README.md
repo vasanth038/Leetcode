@@ -200,6 +200,7 @@ Problem-specific files
 | [0518-coin-change-ii](https://github.com/vasanth038/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vasanth038/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
