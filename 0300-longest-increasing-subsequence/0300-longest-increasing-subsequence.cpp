@@ -1,21 +1,23 @@
 class Solution {
 public:
-     int helper(vector<int>& nums,int ind,int last_ind ,vector<vector<int>>&dp){
-        int n = nums.size();
-        if(ind == n ) return 0;
-        if(dp[ind][last_ind+1] != -1) return dp[ind][last_ind+1];
-        int check = 0;
-         if(last_ind == -1 || nums[ind] > nums[last_ind]){
-             check =  1+helper(nums,ind+1,ind,dp);
-         }
-          int skip = helper(nums,ind+1,last_ind,dp);
-
-        return dp[ind][last_ind+1] = max(check,skip);
-          
-     }
     int lengthOfLIS(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
-       return helper(nums,0 , -1,dp); 
+
+        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        
+        for(int i = n-1;i>=0;i--){
+             
+             for(int p = -1;p<i;p++){
+                if(p == -1 || nums[i] > nums[p]){
+                     dp[i][p+1] = max(1+dp[i+1][i+1] , dp[i][p+1]);
+                }
+                dp[i][p+1] = max(dp[i][p+1] , dp[i+1][p+1]);
+             }
+        }
+
+        return dp[0][0];
+
+
+        
     }
 };
