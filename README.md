@@ -145,6 +145,7 @@ Problem-specific files
 | [1143-longest-common-subsequence](https://github.com/vasanth038/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vasanth038/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -212,6 +213,7 @@ Problem-specific files
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth038/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -278,6 +280,7 @@ Problem-specific files
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
