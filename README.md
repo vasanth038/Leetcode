@@ -191,6 +191,7 @@ Problem-specific files
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanth038/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vasanth038/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/vasanth038/Leetcode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vasanth038/Leetcode/tree/master/0213-house-robber-ii) |
@@ -237,6 +238,7 @@ Problem-specific files
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
@@ -252,6 +254,7 @@ Problem-specific files
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -265,6 +268,7 @@ Problem-specific files
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -280,6 +284,7 @@ Problem-specific files
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/vasanth038/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -488,4 +493,8 @@ Problem-specific files
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
