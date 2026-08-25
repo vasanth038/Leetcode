@@ -5,23 +5,25 @@ public:
        
        int n = nums.size();
 
-       int suff = 1;
-       int pref = 1;
-       int maxP = -1e9;
+       int minP = 1;
+       int maxP= 1;
+       int maxAns = -1e9;
+         
+         for(int i = 0;i<n;i++){
 
-       for(int i = 0 ; i <n;i++){
-          pref*=nums[i];
-          maxP = max(maxP,pref);
-          if(pref == 0) pref = 1;
-       }
-       for(int i = n-1 ; i >=0;i--){
-          suff*=nums[i];
-          maxP = max(maxP,suff);
-          if(suff == 0) suff = 1;
-       }
+            if(nums[i] < 0){
+                swap(maxP,minP);
+            }
+            maxP *= nums[i];
+            minP *= nums[i];
+             maxAns = max(maxAns , maxP);
+            if(maxP <= 0) maxP = 1;
+            if(minP == 0) minP = 1;
+         }
+       
 
 
-       return maxP;
+       return maxAns;
           
     }
 };
