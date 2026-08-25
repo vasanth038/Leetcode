@@ -120,6 +120,7 @@ Problem-specific files
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanth038/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vasanth038/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/vasanth038/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vasanth038/Leetcode/tree/master/0213-house-robber-ii) |
@@ -192,6 +193,7 @@ Problem-specific files
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vasanth038/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/vasanth038/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vasanth038/Leetcode/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/vasanth038/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
