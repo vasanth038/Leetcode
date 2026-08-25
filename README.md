@@ -139,6 +139,7 @@ Problem-specific files
 | [0647-palindromic-substrings](https://github.com/vasanth038/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vasanth038/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/vasanth038/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -211,6 +212,7 @@ Problem-specific files
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vasanth038/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
