@@ -7,22 +7,11 @@ public:
         int n = coins.size();
 
         vector<unsigned int>prev(amount+1,0);
-
         prev[0] = 1;
-         
-        for(int k = 1; k<= amount;k++){
-            if(coins[0] <= k ) prev[k] = prev[k-coins[0]];
-        }
-
-
-        for(int i = 1;i<n;i++){
-               vector<unsigned int>cur(amount+1,0);
-               cur[0] = 1;
+        for(int i = 1;i<=n;i++){ 
             for(int k = 1;k<=amount;k++){
-                if(coins[i] <= k) cur[k] = prev[k]+cur[k-coins[i]];
-                else cur[k] = prev[k];
+                if(coins[i-1] <= k) prev[k] += prev[k-coins[i-1]];
             }
-            swap(cur,prev);
         }
 
         return prev[amount];
