@@ -145,6 +145,7 @@ Problem-specific files
 | [0918-maximum-sum-circular-subarray](https://github.com/vasanth038/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/vasanth038/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/vasanth038/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
@@ -220,6 +221,7 @@ Problem-specific files
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vasanth038/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -467,11 +469,13 @@ Problem-specific files
 | [0416-partition-equal-subset-sum](https://github.com/vasanth038/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vasanth038/Leetcode/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth038/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
