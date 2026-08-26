@@ -71,6 +71,7 @@ Problem-specific files
 | [0104-maximum-depth-of-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vasanth038/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/vasanth038/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
@@ -124,6 +125,7 @@ Problem-specific files
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vasanth038/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vasanth038/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vasanth038/Leetcode/tree/master/0312-burst-balloons) |
@@ -339,6 +341,7 @@ Problem-specific files
 | ------- |
 | [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/vasanth038/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasanth038/Leetcode/tree/master/0509-fibonacci-number) |
@@ -470,6 +473,7 @@ Problem-specific files
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vasanth038/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
@@ -484,6 +488,7 @@ Problem-specific files
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vasanth038/Leetcode/tree/master/0518-coin-change-ii) |
 ## Longest Common Subsequence
