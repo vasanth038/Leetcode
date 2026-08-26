@@ -10,25 +10,26 @@ public:
         int s = sum/2;
         int n = stones.size();
 
-        vector<vector<bool>>dp(n,vector<bool>(s+1,false));
+        vector<bool>prev(s+1,false);
 
-        dp[0][0]  = true;
-        if(stones[0] <= s) dp[0][stones[0]] = true;
+        prev[0]  = true;
+        if(stones[0] <= s) prev[stones[0]] = true;
 
         for(int i = 1;i<n;i++){
-
+           vector<bool>cur(s+1,false);
             for(int j = 0;j<=s;j++){
 
-                if(stones[i] <= j) dp[i][j] = dp[i-1][j] || dp[i-1][j-stones[i]];
-                else dp[i][j] = dp[i-1][j];
+                if(stones[i] <= j) cur[j] = prev[j] || prev[j-stones[i]];
+                else cur[j] = prev[j];
             }
+            swap(cur,prev);
         }
 
         int minD = 1e9;
 
         for(int j = s; j>=0;j--){
 
-            if(dp[n-1][j]) {
+            if(prev[j]) {
                 minD = sum-2*j;
                 break;
             }
