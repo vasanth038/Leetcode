@@ -7,9 +7,6 @@ public:
         if(sum%k != 0) return false;
 
         int s = sum/k;
-          sort(nums.rbegin(),nums.rend());
-          if(nums[0] > s) return false;
-      
         int N = 1 << n;
         vector<int>dp(N,-1);
         dp[0] = 0;
