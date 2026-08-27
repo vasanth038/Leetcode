@@ -20,7 +20,7 @@ public:
                 }
             }
 
-            prev = cur;
+           swap(prev,cur);
         }
 
 
