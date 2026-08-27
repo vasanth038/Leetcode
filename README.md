@@ -187,6 +187,7 @@ Problem-specific files
 | [3499-maximize-active-section-with-trade-i](https://github.com/vasanth038/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vasanth038/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/vasanth038/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Array
@@ -266,6 +267,7 @@ Problem-specific files
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasanth038/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vasanth038/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -289,6 +291,7 @@ Problem-specific files
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -330,6 +333,7 @@ Problem-specific files
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasanth038/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vasanth038/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,6 +394,7 @@ Problem-specific files
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth038/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vasanth038/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/vasanth038/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Number Theory
 |  |
