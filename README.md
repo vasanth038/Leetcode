@@ -233,6 +233,7 @@ Problem-specific files
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/vasanth038/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vasanth038/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
@@ -321,6 +322,7 @@ Problem-specific files
 | [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
+| [1288-remove-covered-intervals](https://github.com/vasanth038/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
