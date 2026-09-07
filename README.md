@@ -149,6 +149,7 @@ Problem-specific files
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vasanth038/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/vasanth038/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/vasanth038/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -177,6 +178,7 @@ Problem-specific files
 | [0516-longest-palindromic-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vasanth038/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vasanth038/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/vasanth038/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vasanth038/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/vasanth038/Leetcode/tree/master/1092-shortest-common-supersequence) |
