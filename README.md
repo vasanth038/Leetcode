@@ -253,6 +253,7 @@ Problem-specific files
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth038/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vasanth038/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/vasanth038/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/vasanth038/Leetcode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vasanth038/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -281,6 +282,7 @@ Problem-specific files
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasanth038/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vasanth038/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -341,6 +343,7 @@ Problem-specific files
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vasanth038/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vasanth038/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -429,6 +432,7 @@ Problem-specific files
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vasanth038/Leetcode/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth038/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vasanth038/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -494,6 +498,7 @@ Problem-specific files
 | [0044-wildcard-matching](https://github.com/vasanth038/Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasanth038/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
