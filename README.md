@@ -260,6 +260,7 @@ Problem-specific files
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasanth038/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasanth038/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vasanth038/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vasanth038/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -284,6 +285,7 @@ Problem-specific files
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasanth038/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vasanth038/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -428,6 +430,7 @@ Problem-specific files
 | ------- |
 | [1291-sequential-digits](https://github.com/vasanth038/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth038/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vasanth038/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vasanth038/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -491,6 +494,7 @@ Problem-specific files
 | [0044-wildcard-matching](https://github.com/vasanth038/Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasanth038/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
