@@ -159,6 +159,7 @@ Problem-specific files
 | [1143-longest-common-subsequence](https://github.com/vasanth038/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1872-stone-game-viii](https://github.com/vasanth038/Leetcode/tree/master/1872-stone-game-viii) |
@@ -246,6 +247,7 @@ Problem-specific files
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -282,6 +284,7 @@ Problem-specific files
 | [1331-rank-transform-of-an-array](https://github.com/vasanth038/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasanth038/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vasanth038/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -374,6 +377,7 @@ Problem-specific files
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vasanth038/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vasanth038/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -514,6 +518,7 @@ Problem-specific files
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth038/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Memoization
 |  |
