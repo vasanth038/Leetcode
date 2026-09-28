@@ -210,6 +210,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/vasanth038/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vasanth038/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vasanth038/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vasanth038/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -445,6 +446,7 @@ Problem-specific files
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vasanth038/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vasanth038/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -486,6 +488,7 @@ Problem-specific files
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vasanth038/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vasanth038/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasanth038/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
