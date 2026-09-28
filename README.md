@@ -119,6 +119,7 @@ Problem-specific files
 | [0070-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vasanth038/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vasanth038/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/vasanth038/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vasanth038/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasanth038/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanth038/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -216,6 +217,7 @@ Problem-specific files
 | [0063-unique-paths-ii](https://github.com/vasanth038/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/vasanth038/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vasanth038/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vasanth038/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vasanth038/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
