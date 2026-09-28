@@ -210,6 +210,7 @@ Problem-specific files
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vasanth038/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vasanth038/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vasanth038/Leetcode/tree/master/0054-spiral-matrix) |
@@ -296,6 +297,7 @@ Problem-specific files
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vasanth038/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vasanth038/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasanth038/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
