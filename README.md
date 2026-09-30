@@ -113,6 +113,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vasanth038/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/vasanth038/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vasanth038/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -219,6 +220,7 @@ Problem-specific files
 | [0018-4sum](https://github.com/vasanth038/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vasanth038/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/vasanth038/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vasanth038/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vasanth038/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vasanth038/Leetcode/tree/master/0057-insert-interval) |
@@ -329,6 +331,7 @@ Problem-specific files
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vasanth038/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vasanth038/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
