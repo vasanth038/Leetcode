@@ -169,6 +169,7 @@ Problem-specific files
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vasanth038/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasanth038/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -212,6 +213,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vasanth038/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vasanth038/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vasanth038/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vasanth038/Leetcode/tree/master/0054-spiral-matrix) |
@@ -357,6 +359,7 @@ Problem-specific files
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vasanth038/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/vasanth038/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
