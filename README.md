@@ -241,6 +241,7 @@ Problem-specific files
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vasanth038/Leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/vasanth038/Leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vasanth038/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vasanth038/Leetcode/tree/master/0312-burst-balloons) |
@@ -309,6 +310,7 @@ Problem-specific files
 | [0001-two-sum](https://github.com/vasanth038/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vasanth038/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vasanth038/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasanth038/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -348,6 +350,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vasanth038/Leetcode/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vasanth038/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -372,6 +375,7 @@ Problem-specific files
 | [0075-sort-colors](https://github.com/vasanth038/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vasanth038/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasanth038/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/vasanth038/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/vasanth038/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -631,6 +635,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vasanth038/Leetcode/tree/master/0229-majority-element-ii) |
 ## Queue
 |  |
 | ------- |
