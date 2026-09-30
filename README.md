@@ -290,6 +290,7 @@ Problem-specific files
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/vasanth038/Leetcode/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vasanth038/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasanth038/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasanth038/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -323,6 +324,7 @@ Problem-specific files
 | [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vasanth038/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasanth038/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -441,6 +443,7 @@ Problem-specific files
 | [1872-stone-game-viii](https://github.com/vasanth038/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth038/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vasanth038/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vasanth038/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -480,6 +483,7 @@ Problem-specific files
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
