@@ -1,29 +1,24 @@
-#include<bits/stdc++.h>
+
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-       
-       int n = nums.size();
 
-       int minP = 1;
-       int maxP= 1;
-       int maxAns = -1e9;
-         
-         for(int i = 0;i<n;i++){
+        int pref = 1;
+        int maxi = -1e9;
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
 
-            if(nums[i] < 0){
-                swap(maxP,minP);
-            }
-            maxP *= nums[i];
-            minP *= nums[i];
-             maxAns = max(maxAns , maxP);
-            if(maxP <= 0) maxP = 1;
-            if(minP == 0) minP = 1;
-         }
-       
+            pref *= nums[i];
+            maxi = max(maxi, pref);
+            if(pref == 0) pref = 1;
+        }
+        int suff = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            suff *= nums[i];
+            maxi = max(maxi, suff);
+            if(suff == 0) suff = 1;
+        }
 
-
-       return maxAns;
-          
+        return maxi;
     }
 };
