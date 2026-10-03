@@ -236,6 +236,7 @@ Problem-specific files
 | [0064-minimum-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vasanth038/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vasanth038/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vasanth038/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/vasanth038/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vasanth038/Leetcode/tree/master/0120-triangle) |
@@ -592,6 +593,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vasanth038/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth038/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasanth038/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
