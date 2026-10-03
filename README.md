@@ -449,6 +449,7 @@ Problem-specific files
 | ------- |
 | [0048-rotate-image](https://github.com/vasanth038/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/vasanth038/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vasanth038/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/vasanth038/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -597,6 +598,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/vasanth038/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vasanth038/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth038/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -715,4 +717,8 @@ Problem-specific files
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vasanth038/Leetcode/tree/master/0493-reverse-pairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vasanth038/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
