@@ -293,6 +293,7 @@ Problem-specific files
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vasanth038/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vasanth038/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vasanth038/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -615,6 +616,7 @@ Problem-specific files
 | [0875-koko-eating-bananas](https://github.com/vasanth038/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vasanth038/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vasanth038/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vasanth038/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Memoization
 |  |
