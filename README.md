@@ -250,6 +250,7 @@ Problem-specific files
 | [0135-candy](https://github.com/vasanth038/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/vasanth038/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/vasanth038/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vasanth038/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vasanth038/Leetcode/tree/master/0198-house-robber) |
@@ -610,6 +611,7 @@ Problem-specific files
 | [0069-sqrtx](https://github.com/vasanth038/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vasanth038/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/vasanth038/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth038/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vasanth038/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
