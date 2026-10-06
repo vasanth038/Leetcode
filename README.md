@@ -306,6 +306,7 @@ Problem-specific files
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vasanth038/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vasanth038/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/vasanth038/Leetcode/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/vasanth038/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth038/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vasanth038/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -521,6 +522,7 @@ Problem-specific files
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/vasanth038/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -636,6 +638,7 @@ Problem-specific files
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vasanth038/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vasanth038/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/vasanth038/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/vasanth038/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Memoization
 |  |
 | ------- |
