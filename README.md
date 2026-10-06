@@ -187,6 +187,7 @@ Problem-specific files
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vasanth038/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -337,6 +338,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vasanth038/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vasanth038/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vasanth038/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vasanth038/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vasanth038/Leetcode/tree/master/0169-majority-element) |
@@ -464,6 +466,7 @@ Problem-specific files
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vasanth038/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vasanth038/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vasanth038/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vasanth038/Leetcode/tree/master/0069-sqrtx) |
