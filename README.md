@@ -74,6 +74,7 @@ Problem-specific files
 | [0199-binary-tree-right-side-view](https://github.com/vasanth038/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/vasanth038/Leetcode/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/vasanth038/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
@@ -195,6 +196,7 @@ Problem-specific files
 | [0072-edit-distance](https://github.com/vasanth038/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vasanth038/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/vasanth038/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/vasanth038/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/vasanth038/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vasanth038/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -602,6 +604,7 @@ Problem-specific files
 | ------- |
 | [0022-generate-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vasanth038/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vasanth038/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
