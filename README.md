@@ -60,6 +60,7 @@ Problem-specific files
 | [0662-maximum-width-of-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasanth038/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/vasanth038/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -82,6 +83,7 @@ Problem-specific files
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/vasanth038/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -293,6 +295,7 @@ Problem-specific files
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vasanth038/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/vasanth038/Leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/vasanth038/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vasanth038/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/vasanth038/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -507,6 +510,7 @@ Problem-specific files
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vasanth038/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/vasanth038/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/vasanth038/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vasanth038/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -526,6 +530,7 @@ Problem-specific files
 | [0240-search-a-2d-matrix-ii](https://github.com/vasanth038/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/vasanth038/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vasanth038/Leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vasanth038/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/vasanth038/Leetcode/tree/master/1901-find-a-peak-element-ii) |
