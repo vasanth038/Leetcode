@@ -64,6 +64,7 @@ Problem-specific files
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vasanth038/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/vasanth038/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Problem-specific files
 | [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vasanth038/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/vasanth038/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Problem-specific files
 | [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vasanth038/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vasanth038/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vasanth038/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -513,6 +516,7 @@ Problem-specific files
 | [1254-number-of-closed-islands](https://github.com/vasanth038/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/vasanth038/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vasanth038/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -535,6 +539,7 @@ Problem-specific files
 | [1463-cherry-pickup-ii](https://github.com/vasanth038/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/vasanth038/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
