@@ -497,6 +497,7 @@ Problem-specific files
 | [0877-stone-game](https://github.com/vasanth038/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vasanth038/Leetcode/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/vasanth038/Leetcode/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/vasanth038/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vasanth038/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vasanth038/Leetcode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -634,6 +635,7 @@ Problem-specific files
 | [0050-powx-n](https://github.com/vasanth038/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasanth038/Leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/vasanth038/Leetcode/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vasanth038/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
