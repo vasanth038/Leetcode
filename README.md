@@ -253,6 +253,7 @@ Problem-specific files
 | [0073-set-matrix-zeroes](https://github.com/vasanth038/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vasanth038/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vasanth038/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vasanth038/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vasanth038/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vasanth038/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/vasanth038/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -597,6 +598,7 @@ Problem-specific files
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vasanth038/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/vasanth038/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vasanth038/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/vasanth038/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -620,6 +622,7 @@ Problem-specific files
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/vasanth038/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/vasanth038/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
