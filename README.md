@@ -197,6 +197,7 @@ Problem-specific files
 | [0020-valid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vasanth038/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/vasanth038/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vasanth038/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vasanth038/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vasanth038/Leetcode/tree/master/0115-distinct-subsequences) |
