@@ -175,6 +175,7 @@ Problem-specific files
 | [1872-stone-game-viii](https://github.com/vasanth038/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vasanth038/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vasanth038/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -344,6 +345,7 @@ Problem-specific files
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vasanth038/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vasanth038/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vasanth038/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/vasanth038/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vasanth038/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4020-elevator-requests-i](https://github.com/vasanth038/Leetcode/tree/master/4020-elevator-requests-i) |
@@ -549,6 +551,7 @@ Problem-specific files
 | [1901-find-a-peak-element-ii](https://github.com/vasanth038/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vasanth038/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -606,6 +609,7 @@ Problem-specific files
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vasanth038/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vasanth038/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vasanth038/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
