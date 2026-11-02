@@ -285,6 +285,7 @@ Problem-specific files
 | [0435-non-overlapping-intervals](https://github.com/vasanth038/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vasanth038/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vasanth038/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vasanth038/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/vasanth038/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/vasanth038/Leetcode/tree/master/0494-target-sum) |
@@ -439,6 +440,7 @@ Problem-specific files
 | [0368-largest-divisible-subset](https://github.com/vasanth038/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/vasanth038/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vasanth038/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vasanth038/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vasanth038/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vasanth038/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -495,6 +497,7 @@ Problem-specific files
 | [0279-perfect-squares](https://github.com/vasanth038/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/vasanth038/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vasanth038/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vasanth038/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/vasanth038/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/vasanth038/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vasanth038/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
