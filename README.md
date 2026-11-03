@@ -346,6 +346,7 @@ Problem-specific files
 | [3665-twisted-mirror-path-count](https://github.com/vasanth038/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vasanth038/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vasanth038/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasanth038/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vasanth038/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vasanth038/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vasanth038/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -519,6 +520,7 @@ Problem-specific files
 | [3536-maximum-product-of-two-digits](https://github.com/vasanth038/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vasanth038/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vasanth038/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasanth038/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vasanth038/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vasanth038/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/vasanth038/Leetcode/tree/master/3870-count-commas-in-range) |
