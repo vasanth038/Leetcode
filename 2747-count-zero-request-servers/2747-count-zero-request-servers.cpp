@@ -23,25 +23,24 @@ public:
         sort(qs.begin(), qs.end(), comp);
 
         vector<int> ans(m);
-        map<int, int> mpp;
+        vector<int> cnt(n + 1, 0);
+        int busy = 0;
         int l = 0;
         int r = 0;
         for (int i = 0; i < m; i++) {
 
             int q = qs[i][1];
             int id = qs[i][0];
-             while (r < logs.size() && logs[r][1] <= q) {
-                mpp[logs[r][0]]++;
+            while (r < logs.size() && logs[r][1] <= q) {
+                busy += cnt[logs[r][0]]++ == 0;
                 r++;
             }
 
             while (l < r && logs[l][1] < q - x) {
-                mpp[logs[l][0]]--;
-                if (mpp[logs[l][0]] == 0)
-                    mpp.erase(logs[l][0]);
+                busy -= --cnt[logs[l][0]] == 0;
                 l++;
             }
-            ans[id] = n - mpp.size();
+            ans[id] = n - busy;
         }
 
         return ans;
