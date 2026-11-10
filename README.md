@@ -179,6 +179,7 @@ Problem-specific files
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vasanth038/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/vasanth038/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/vasanth038/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vasanth038/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -354,6 +355,7 @@ Problem-specific files
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vasanth038/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vasanth038/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vasanth038/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/vasanth038/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vasanth038/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vasanth038/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vasanth038/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
