@@ -346,6 +346,7 @@ Problem-specific files
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vasanth038/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/vasanth038/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vasanth038/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vasanth038/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vasanth038/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vasanth038/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vasanth038/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
